@@ -1,0 +1,74 @@
+meta:
+  title: Free Agency | Careers
+  description: Entertainers and athletes have Talent Agents. Shouldn't everyone else? We manage and represent talent in tech. Join us in changing career trajectories!
+sections:
+  - sectionType: HERO_SECONDARY
+    background: LIGHT
+    headline:
+      [
+        [We’re changing the way people think about careers., false],
+        [Let’s change how you think about yours., true],
+      ]
+    cta:
+      label: Join the team
+      to: '#job-listings'
+    image:
+      name: Chart
+      alt: career opportunities
+  - sectionType: FEATURED_CONTENT
+    background: TOP_LIGHT_BOTTOM_DARK
+    contentSide: LEFT
+    contentSideMobile: TOP
+    contentColumns: 7
+    spacing: DEFAULT
+    variant: DEFAULT
+    headline: [[How we work, false]]
+    image:
+      name: Maze
+      alt: navigate your career
+    bulletList:
+      iconName: CheckCircle
+      items:
+        - Storytelling is essential
+        - Hire for aptitude
+        - Have a long time horizon
+        - No silos of opinion
+        - Make probabilistic decisions
+        - It takes a village
+        - Reinvent constantly
+        - Everyone is a WIP
+  - sectionType: ICON_LIST
+    headline: [[Benefits, false]]
+    items:
+      - title: Competitive pay
+        description: We know the market rate, and we pay competitively to hire the best.
+        iconName: Money
+      - title: 100% health coverage
+        description: 100% medical, dental, vision, and regular COVID testing.
+        iconName: Plus
+      - title: Real ownership
+        description: We have a lot to do. You’ll get to own and operate initiatives immediately.
+        iconName: Wink
+      - title: A+ office experience
+        description: We’re an in-office team, and we’ve invested in an A+ office experience.
+        iconName: AccountAvatar
+      - title: The standards
+        description: 'Regular startup stuff: commuter benefits, snacks, & growth mindsets.'
+        iconName: RocketShip
+      - title: Refresher program
+        description: Unlimited vacation (2 week min.) + company-wide 2-weeks @ holidays.
+        iconName: OctoStarCheck
+  - sectionType: FEATURED_CONTENT
+    contentSide: RIGHT
+    contentSideMobile: BOTTOM
+    variant: GRADIENT_BACKGROUND
+    spacing: DEFAULT
+    headline: [[Boost Program, false]]
+    image:
+      name: Takeoff
+      alt: boost your career
+    body: We believe in investing in careers, including those of our internal team. Boost is our L&D program, offering $2,000 through a co-pay system for any learning done within or outside of a teammate’s core function.
+  - sectionType: INVESTORS
+  - sectionType: GREENHOUSE
+    background: LIGHT
+    id: job-listings

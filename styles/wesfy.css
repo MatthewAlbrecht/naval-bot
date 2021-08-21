@@ -1,0 +1,12 @@
+@font-face {
+  font-display: block;
+  font-family: 'WesFY';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/fonts/WesFY/WesFY-Black.eot') format('embedded-opentype'),
+    /* IE6-IE8 */ url('/fonts/WesFY/WesFY-Black.woff2') format('woff2'),
+    /* chrome firefox */ url('/fonts/WesFY/WesFY-Black.woff') format('woff'),
+    /* chrome firefox */ url('/fonts/WesFY/WesFY-Black.ttf') format('truetype'),
+    /* chrome firefox opera Safari, Android, iOS 4.2+*/
+      url('/fonts/WesFY/WesFY-Black.svg') format('svg'); /* iOS 4.1- */
+}

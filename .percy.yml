@@ -1,0 +1,6 @@
+version: 2
+snapshot:
+  percy-css: |
+    iframe {
+      display: none;
+    }

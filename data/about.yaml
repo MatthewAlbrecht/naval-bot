@@ -1,0 +1,131 @@
+meta:
+  title: Free Agency | About
+sections:
+  - sectionType: HERO_SECONDARY
+    background: LIGHT
+    headline:
+      [
+        ['We care about one metric:', false],
+        [improving the collective GDP of our Free Agents., true],
+      ]
+    cta:
+      label: Join the team
+      to: /careers
+    image:
+      name: Ladder
+      alt: climb the ladder
+  - sectionType: FEATURED_CONTENT
+    background: TOP_LIGHT_BOTTOM_DARK
+    contentSide: LEFT
+    contentSideMobile: BOTTOM
+    contentColumns: 6
+    spacing: DEFAULT
+    variant: DEFAULT
+    headline: [[Lighting up the possibilities, false]]
+    image:
+      name: Lighting
+      alt: a lot of possibilities
+    body: We trust doctors with our health, attorneys with our legal matters, and mechanics with our cars. We know that they have a scope of understanding, process, and knowledge that give them possibilities we can't help but access.<br>Free Agency is your career advocate, lighting up the possibilities that you wouldn't likely see, engage, or win on your own.
+  - sectionType: OUR_TEAM
+    headline: [[The Team, false]]
+    ctaBox:
+      title: Want to help us transform careers?
+      subTitle: We’re fast-growing, fast-moving, and ready to invest in the careers of our team, just as we do in the careers of our clients.
+      to: /careers
+      ctaLabel: Go to the careers page
+    employees:
+      - name: Sherveen Mashayekhi
+        title: Co-Founder & CEO
+        image:
+          name: Sherveen
+          alt: Sherveen Mashayekhi
+      - name: Alex Rothberg
+        title: Co-Founder & COO
+        image:
+          name: AlexR
+          alt: Alex Rothberg
+      - name: Kerry O'Brien
+        title: Director, Talent Success
+        image:
+          name: Kerry
+          alt: Kerry O'Brien
+      - name: Bernadette Gatsby
+        title: Head of Exec. Ops
+        image:
+          name: Bernadette
+          alt: Bernadette Gatsby
+      - name: Nathan Chen
+        title: Special Projects Lead
+        image:
+          name: Nathan
+          alt: Nathan Chen
+      - name: Katie Kilbourne
+        title: Ops Specialist
+        image:
+          name: Katie
+          alt: Katie Kilbourne
+      - name: Maurice Eisenmann
+        title: Talent Agent
+        image:
+          name: Maurice
+          alt: Maurice Eisenmann
+      - name: Jenn Zhang
+        title: Talent Agent
+        image:
+          name: Jenn
+          alt: Jenn Zhang
+      - name: Matt Albrecht
+        title: Software Engineer
+        image:
+          name: Matt
+          alt: Matt Albrecht
+      - name: Dan Robinson
+        title: Talent Agent
+        image:
+          name: Dan
+          alt: Dan Robinson
+      - name: Jamie Geller
+        title: Content Manager
+        image:
+          name: Jamie
+          alt: Jamie Geller
+      # - name: Alex Weiner
+      #   title: Talent Agent
+      #   image:
+      #     name: AlexW
+      #     alt: Alex Weiner
+      # - name: Jackson Weimer
+      #   title: Talent Agent
+      #   image:
+      #     name: Jackson
+      #     alt: Community Generalist
+      # - name: Noah Martin
+      #   title: Operations Associate
+      #   image:
+      #     name: Noah
+      #     alt: Noah Martin
+      # - name: Kathleen Walsh
+      #   title: Head of Ecosystem
+      #   image:
+      #     name: Kathleen
+      #     alt: Kathleen Walsh
+      # - name: Jeremy Greenfield
+      #   title: Senior Editor
+      #   image:
+      #     name: Jeremy
+      #     alt: Jeremy Greenfield
+  - sectionType: INVESTORS
+  - sectionType: FEATURED_CONTENT
+    contentSide: RIGHT
+    contentSideMobile: TOP
+    variant: GRADIENT_BACKGROUND
+    spacing: COMPACT
+    headline:
+      [[Headquartered in, false], [NYC., true], [Free Agents US-wide., false]]
+    image:
+      name: Building
+      alt: located in New York
+    body: Wherever there’s talent to be enabled, empowered, unlocked, motivated, inspired, equipped, and leveled up, we will go. Access to opportunity should be universal, and we’re part of the movement that will make it so.
+    cta:
+      label: View Open Roles
+      to: /careers

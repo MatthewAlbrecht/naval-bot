@@ -1,0 +1,112 @@
+meta:
+  description: A new type of talent agency, focused on you.
+  keywords: talent agency,job search
+  title: Free Agency | Entertainers and athletes have talent agents — why shouldn't you?
+sections:
+  - sectionType: HERO
+    headline:
+      [[Entertainers & athletes have Talent Agents., false], [Shouldn't you?, true]]
+    cta:
+      label: Join the waitlist
+      to: /waitlist
+    image:
+      name: Planets
+      alt: people climbing up a ladder
+  - sectionType: LOGO_BOX
+    background: [DARK, { md: TOP_DARK_BOTTOM_LIGHT }]
+    headline: [[We work for the, false], [people., true]]
+    headline2: [['Our clients work at world-changing companies, including:', false]]
+    body: We're not recruiters.<br>We manage the careers of our clients. They are top professionals across functions within tech. We work closely with them to rapidly accelerate their careers. Then, they share 5-10% of their income with us, aligning our incentives.
+  - sectionType: FEATURED_FREE_AGENTS
+    background: LIGHT
+    headline: [[Featured, false], [Free Agents, true], [of the week, false]]
+    body: Employer interested in chatting with one of the Free Agents? Request an intro and you’ll be connected to their Talent Agent for next steps!
+    freeAgents:
+      - avatar:
+          name: Male1
+          alt: free agent avatar
+        description: Head of Data Science currently @ FAANGM
+        lookingFor: Data science & eng leadership, location & stage agnostic
+        prefillId: 8921-DS
+      - avatar:
+          name: Female1
+          alt: free agent avatar
+        description: Group PM, previously @ Public Enterprise SaaS
+        lookingFor: B2B product leadership in the Bay Area or remote
+        prefillId: 8921-GPM
+      - avatar:
+          name: Male2
+          alt: free agent avatar
+        description: Senior Full-Stack Engineer @ Seed-stage Startup
+        lookingFor: Senior engineering roles in NYC or remote
+        prefillId: 8921-SWE
+      - avatar:
+          name: Female2
+          alt: free agent avatar
+        description: VC Partner & former CRO/CMO
+        lookingFor: Investing/operating roles in VC; location agnostic
+        prefillId: 8921-VC
+    freeAgentCTA:
+      label: contact free agent
+      to: /meet-featured
+  - sectionType: FEATURED_CONTENT
+    contentSide: RIGHT
+    contentSideMobile: TOP
+    variant: DEFAULT
+    spacing: DEFAULT
+    image:
+      name: Lightbulbs
+      alt: people with good ideas
+    headline: [[Three ways to, false], [engage, true]]
+    featureList:
+      - title: Get represented
+        description: Let a Talent Agent put your search on autopilot, winning your dream job.
+        iconName: Star
+      - title: Get managed
+        description: Work with a Talent Agent on coaching, brand, and work performance.
+        iconName: People
+      - title: Get candidates
+        description: Talk to a Talent Agent about your hiring needs & receive free referrals.
+        iconName: Checklist
+    cta:
+      label: Talk to a Talent Agent
+      to: /waitlist
+  - sectionType: RECENT_MOVES
+    headline: [[10 notable, false], [Free Agent, true], [moves last week, false]]
+    background: LIGHT
+    bookmarkText: Live News
+    moves:
+      - imageUrl: https://logo.clearbit.com/freeagency.com
+        description: Free Agency Angels kicked off with guest VC Sheel Mohnot.
+      - imageUrl: https://logo.clearbit.com/talespin.com
+        description: Director of Product placed at Series B enterprise XR startup.
+      - imageUrl: https://logo.clearbit.com/embarktrucks.com
+        description: CFO placed at public self-driving technology company.
+      - imageUrl: https://logo.clearbit.com/freeagency.com
+        description: VP of Engineering at top cybersecurity company joins Free Agency.
+      - imageUrl: https://logo.clearbit.com/square.com
+        description: Senior Software Engineer joins the team at Square.
+      - imageUrl: https://logo.clearbit.com/madisonlogic.com
+        description: VP of Product placed at top B2B marketing platform.
+      - imageUrl: https://logo.clearbit.com/freeagency.com
+        description: Free Agent piece published in TechCrunch about live commerce.
+      - imageUrl: https://logo.clearbit.com/stripe.com
+        description: 3x Free Agent interviews for roles at Stripe.
+      - imageUrl: https://logo.clearbit.com/freeagency.com
+        description: Engineering Manager placed at Series C automation platform.
+      - imageUrl: https://logo.clearbit.com/freeagency.com
+        description: Software engineer doubles their total annual cash compensation.
+  - sectionType: FEATURED_CONTENT
+    contentSide: LEFT
+    contentSideMobile: TOP
+    contentColumns: 5
+    variant: DEFAULT
+    spacing: DEFAULT
+    headline: [[Thinking about, false], [what's next?, true]]
+    image:
+      name: Mirror
+      alt: living up to you're potential
+    body: Free Agency is currently full with a waitlist. However, tell us if you’re actively or passively open to intros to potential opportunities. We’ll keep you in mind for perfect fits.
+    cta:
+      label: I'm open to work
+      to: /waitlist

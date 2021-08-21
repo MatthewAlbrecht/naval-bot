@@ -1,0 +1,28 @@
+links:
+  - displayName: Home
+    slug: ''
+    showHeader: false
+    showFooter: true
+  - displayName: About
+    slug: about
+    showHeader: true
+    showFooter: true
+  - displayName: Careers
+    slug: careers
+    showHeader: true
+    showFooter: true
+  - displayName: Employers
+    slug: employers
+    showHeader: true
+    showFooter: true
+socials:
+  - name: LinkedIn
+    url: https://www.linkedin.com/company/join-free-agency
+  - name: AngelList
+    url: https://angel.co/company/joinfreeagency
+  - name: Twitter
+    url: https://twitter.com/JoinFreeAgency
+  - name: Instagram
+    url: https://www.instagram.com/tryfreeagency
+tagline: A new type of talent agency, focused on you
+linkListLabel: Check us out
